@@ -103,7 +103,7 @@ lead-scoring-analysis/
 
 ## 👨‍💻 Autor
 **Arthur Ramos Dos Santos** 
-📧 arthur@email.com | 🔗 [LinkedIn](https://linkedin.com/in/arthur) | 🐙 [GitHub](https://github.com/arthur)
+ 🔗 [LinkedIn](https://www.linkedin.com/in/arthur-ramos-dos-santos-689a30230/)) | 🐙 [GitHub](https://github.com/arthur)
 
 ## 📄 Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
