@@ -102,7 +102,7 @@ lead-scoring-analysis/
 ```
 
 ## 👨‍💻 Autor
-**Arthur Silva** - Analista de Dados  
+**Arthur Ramos Dos Santos** 
 📧 arthur@email.com | 🔗 [LinkedIn](https://linkedin.com/in/arthur) | 🐙 [GitHub](https://github.com/arthur)
 
 ## 📄 Licença
